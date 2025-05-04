@@ -30,10 +30,11 @@ This repository includes implementations of:
 ## Repository Structure
 
 computational_theory/
-├── tasks.ipynb        # Main Jupyter notebook with all implementations
-├── requirements.txt   # Required packages
-├── README.md          # This documentation file
-└── words.txt          # Dictionary file for proof-of-work task
+
+- tasks.ipynb        # Main Jupyter notebook with all implementations
+- requirements.txt   # Required packages
+- README.md          # This documentation file
+- words.txt          # Dictionary file for proof-of-work task
 
 ## Requirements
 
